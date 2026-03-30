@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\ООП ЗУБОВА\ZubobaLaboratornay1\ZubovaLaboratornaya3\bin\Debug\net8.0\ZubovaLaboratornaya3.exe
+C:\Users\user\Desktop\ООП ЗУБОВА\ZubobaLaboratornay1\ZubovaLaboratornaya3\bin\Debug\net8.0\ZubovaLaboratornaya3.deps.json
+C:\Users\user\Desktop\ООП ЗУБОВА\ZubobaLaboratornay1\ZubovaLaboratornaya3\bin\Debug\net8.0\ZubovaLaboratornaya3.runtimeconfig.json
+C:\Users\user\Desktop\ООП ЗУБОВА\ZubobaLaboratornay1\ZubovaLaboratornaya3\bin\Debug\net8.0\ZubovaLaboratornaya3.dll
+C:\Users\user\Desktop\ООП ЗУБОВА\ZubobaLaboratornay1\ZubovaLaboratornaya3\bin\Debug\net8.0\ZubovaLaboratornaya3.pdb
+C:\Users\user\Desktop\ООП ЗУБОВА\ZubobaLaboratornay1\ZubovaLaboratornaya3\obj\Debug\net8.0\ZubovaLaboratornaya3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ООП ЗУБОВА\ZubobaLaboratornay1\ZubovaLaboratornaya3\obj\Debug\net8.0\ZubovaLaboratornaya3.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ООП ЗУБОВА\ZubobaLaboratornay1\ZubovaLaboratornaya3\obj\Debug\net8.0\ZubovaLaboratornaya3.AssemblyInfo.cs
+C:\Users\user\Desktop\ООП ЗУБОВА\ZubobaLaboratornay1\ZubovaLaboratornaya3\obj\Debug\net8.0\ZubovaLaboratornaya3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ООП ЗУБОВА\ZubobaLaboratornay1\ZubovaLaboratornaya3\obj\Debug\net8.0\ZubovaLaboratornaya3.dll
+C:\Users\user\Desktop\ООП ЗУБОВА\ZubobaLaboratornay1\ZubovaLaboratornaya3\obj\Debug\net8.0\refint\ZubovaLaboratornaya3.dll
+C:\Users\user\Desktop\ООП ЗУБОВА\ZubobaLaboratornay1\ZubovaLaboratornaya3\obj\Debug\net8.0\ZubovaLaboratornaya3.pdb
+C:\Users\user\Desktop\ООП ЗУБОВА\ZubobaLaboratornay1\ZubovaLaboratornaya3\obj\Debug\net8.0\ZubovaLaboratornaya3.genruntimeconfig.cache
+C:\Users\user\Desktop\ООП ЗУБОВА\ZubobaLaboratornay1\ZubovaLaboratornaya3\obj\Debug\net8.0\ref\ZubovaLaboratornaya3.dll
